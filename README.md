@@ -22,4 +22,4 @@ Sin embargo, existe una estrategia que permite aumentar la probabilidad de acert
 ## Contenido
 
 * *interactivo/*: Puedes pasar por línea de comandos la cantidad de tests que quieres que se hagan, para modificar las distintas distribuciones hay que hacerlo a mano
-* *automatico/*: Genera estadísticas automatizadas (TODAVÍA NO IMPLEMENTADO) 
+* *automatico/*: Genera estadísticas automatizadas
